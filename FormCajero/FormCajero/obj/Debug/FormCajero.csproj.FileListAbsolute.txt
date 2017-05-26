@@ -1,0 +1,13 @@
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\bin\Debug\FormCajero.exe.config
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\bin\Debug\FormCajero.exe
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\bin\Debug\FormCajero.pdb
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\obj\Debug\FormCajero.csprojResolveAssemblyReference.cache
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\obj\Debug\FormCajero.Form1.resources
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\obj\Debug\FormCajero.Properties.Resources.resources
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\obj\Debug\FormCajero.csproj.GenerateResource.Cache
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\obj\Debug\FormCajero.exe
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\obj\Debug\FormCajero.pdb
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\obj\Debug\FormCajero.Form2.resources
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\obj\Debug\FormCajero.Form3.resources
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\obj\Debug\FormCajero.Resources.Resource1.resources
+C:\Users\Engel\Desktop\ITLA\5to Cuatrimestre\DCU\Tarea 2 - Cajero Automatico\FormCajero\FormCajero\obj\Debug\FormCajero.frmConfig.resources
