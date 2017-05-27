@@ -6,4 +6,4 @@ Esta hecho en C#, basado en el funcionamiento y la interfaz de un cajero real de
 
 Integrantes:
 - Engel De Jesús Rodríguez Gómez (2015 - 2926)
-- Franklin Guerrero (Loading...)
+- Franklin Guerrero (2015 - 3014)
